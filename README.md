@@ -21,3 +21,9 @@ storyboard能做xib的所有事情，但是我们还是推荐混用，代码结�
 ![](img/1.png)
 
 注意firstItem 与secondItem及multipler的设置。例子中设置的长宽比为1：0.6 
+
+### autolayout 如何通过约束设定长宽比
+
+![](img/2.png)
+
+前两个是设置到你视图左右边距为0，就是父视图的宽度，第三个是设置对应的比例
